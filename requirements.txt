@@ -1,0 +1,13 @@
+yfinance
+pandas
+phik
+seaborn
+matplotlib
+numpy
+sklearn
+PyPDF2
+nltk
+joblib
+xgboost
+shap
+
